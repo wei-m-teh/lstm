@@ -4,3 +4,4 @@ numpy
 matplotlib
 pydot
 jupyter
+sklearn
